@@ -47,3 +47,4 @@ DOMAIN-SUFFIX,appmetrica.yandex.ru
 DOMAIN-SUFFIX,api.appmetrica.yandex.ru
 DOMAIN-SUFFIX,crashlytics.com
 DOMAIN-SUFFIX,vk-analytics.ru
+app-analytics-services.com
