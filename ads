@@ -16,8 +16,6 @@ DOMAIN-SUFFIX,appsflyersdk.com
 DOMAIN-SUFFIX,appsflyer.com
 DOMAIN-SUFFIX,adjust.com
 DOMAIN-SUFFIX,adj.st
-DOMAIN-SUFFIX,analytics.adjust.com
-DOMAIN-SUFFIX,app.adjust.com
 DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,googlesyndication.com
 DOMAIN-SUFFIX,ssl.google-analytics.com
@@ -45,3 +43,6 @@ DOMAIN-SUFFIX,pushlog-ios.wsoft.ru
 DOMAIN-SUFFIX,log-stream.mvideo.ru
 DOMAIN-SUFFIX,ad.adriver.ru
 DOMAIN-SUFFIX,report.appmetrica.yandex.net
+DOMAIN-SUFFIX,appmetrica.yandex.ru
+DOMAIN-SUFFIX,api.appmetrica.yandex.ru
+DOMAIN-SUFFIX,crashlytics.com
