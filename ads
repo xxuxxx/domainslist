@@ -1,4 +1,9 @@
+DOMAIN-SUFFIX,ecom-cdn.x5media.ru
+DOMAIN-SUFFIX,api.mindbox.ru
+DOMAIN-SUFFIX,blogmvideo.myemx.ru
+DOMAIN-SUFFIX,sync.otm-r.ru
 DOMAIN-SUFFIX,ads.x5media.ru
+DOMAIN-SUFFIX,datadoghq.eu
 DOMAIN-SUFFIX,up.mdigital.ru
 DOMAIN-SUFFIX,mc.yandex.ru
 DOMAIN-SUFFIX,an.yandex.ru
