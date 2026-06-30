@@ -27,7 +27,7 @@ DOMAIN-SUFFIX,firebase-settings.crashlytics.com
 DOMAIN-SUFFIX,crashlyticsreports-pa.googleapis.com
 DOMAIN-SUFFIX,appsgrowthpromo-pa.googleapis.com
 DOMAIN-SUFFIX,app-ads-services.com
-DOMAIN-SUFFIX,report.appmetrica.yandex.net
+DOMAIN-SUFFIX,appmetrica.yandex.net
 DOMAIN-SUFFIX,appmetrica.yandex.ru
 DOMAIN-SUFFIX,region1.app-measurement.com
 DOMAIN-SUFFIX,inmobi.com
@@ -49,7 +49,10 @@ DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,sentry-mobile.prod.ya.magnit.ru
 DOMAIN-SUFFIX,yandexadexchange.net
 DOMAIN-SUFFIX,analytics.adjust.net.in
-DOMAIN-SUFFIX,analytics.adjust.io
+DOMAIN-SUFFIX,adjust.io
+DOMAIN-SUFFIX,applvn.com
+DOMAIN-SUFFIX,clienttracing-pa.googleapis.com
+DOMAIN-SUFFIX,ogads-pa.googleapis.com
 DOMAIN-SUFFIX,analytics.adjust.world
 DOMAIN-SUFFIX,clck.yandex.ru
 DOMAIN-SUFFIX,rt.avito.ru
@@ -64,6 +67,7 @@ DOMAIN-SUFFIX,sdk.fra-01.braze.eu
 DOMAIN-SUFFIX,tracing.megamarket.tech
 DOMAIN-SUFFIX,sdk-api.apptracer.ru
 DOMAIN-SUFFIX,buzzoola.com
+
 DOMAIN-SUFFIX,app-measurement-pa.googleapis.com
 DOMAIN-SUFFIX,googleadservices.com
 DOMAIN-SUFFIX,pagead2.googlesyndication.com
