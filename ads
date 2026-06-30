@@ -33,7 +33,6 @@ DOMAIN-SUFFIX,inmobi.com
 DOMAIN-SUFFIX,mixpanel.com
 DOMAIN-SUFFIX,posthog.com
 DOMAIN-SUFFIX,bidease.com
-DOMAIN-SUFFIX,ru.foodsoul.pro
 DOMAIN-SUFFIX,tns-counter.ru
 DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,app-analytics.whoosh.bike
