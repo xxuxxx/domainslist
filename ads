@@ -58,3 +58,4 @@ DOMAIN-SUFFIX,analytics.adjust.world
 DOMAIN-SUFFIX,clck.yandex.ru
 DOMAIN-SUFFIX,rt.avito.ru
 DOMAIN-SUFFIX,sdk-api.apptracer.ru
+DOMAIN-SUFFIX,buzzoola.com
