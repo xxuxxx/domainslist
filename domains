@@ -60,3 +60,7 @@ DOMAIN-SUFFIX,byapps.net,DIRECT
 DOMAIN-SUFFIX,walletconnect.com,DIRECT
 DOMAIN-SUFFIX,walletconnect.org,DIRECT
 DOMAIN-SUFFIX,forter.com,DIRECT
+DOMAIN-SUFFIX,gmail.com,DIRECT
+DOMAIN-SUFFIX,bnbstatic.com,DIRECT
+DOMAIN-SUFFIX,bscdnweb.com,DIRECT
+DOMAIN-SUFFIX,nftstatic.com,DIRECT
