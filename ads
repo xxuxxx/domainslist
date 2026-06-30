@@ -41,7 +41,6 @@ DOMAIN-SUFFIX,stats.avito.ru
 DOMAIN-SUFFIX,pushlog-ios.wsoft.ru
 DOMAIN-SUFFIX,log-stream.mvideo.ru
 DOMAIN-SUFFIX,ad.adriver.ru
-DOMAIN-SUFFIX,appmetrica.yandex.ru
 DOMAIN-SUFFIX,crashlytics.com
 DOMAIN-SUFFIX,vk-analytics.ru
 DOMAIN-SUFFIX,uxfeedback.ru
