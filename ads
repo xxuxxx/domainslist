@@ -12,7 +12,6 @@ DOMAIN-SUFFIX,ad.mail.ru
 DOMAIN-SUFFIX,rs.mail.ru
 DOMAIN-SUFFIX,m.mradx.net
 DOMAIN-SUFFIX,r.mradx.net
-DOMAIN-SUFFIX,appsflyersdk.com
 DOMAIN-SUFFIX,appsflyer.com
 DOMAIN-SUFFIX,adjust.com
 DOMAIN-SUFFIX,adj.st
