@@ -43,3 +43,5 @@ DOMAIN-SUFFIX,sync.ad-cdek.ru
 DOMAIN-SUFFIX,stats.avito.ru
 DOMAIN-SUFFIX,pushlog-ios.wsoft.ru
 DOMAIN-SUFFIX,log-stream.mvideo.ru
+DOMAIN-SUFFIX,ad.adriver.ru
+DOMAIN-SUFFIX,report.appmetrica.yandex.net
