@@ -49,3 +49,4 @@ DOMAIN-SUFFIX,vk-analytics.ru
 DOMAIN-SUFFIX,uxfeedback.ru
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,sentry-mobile.prod.ya.magnit.ru
+DOMAIN-SUFFIX,yandexadexchange.net
