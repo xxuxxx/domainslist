@@ -15,6 +15,7 @@ DOMAIN-SUFFIX,r.mradx.net
 DOMAIN-SUFFIX,appsflyersdk.com
 DOMAIN-SUFFIX,appsflyer.com
 DOMAIN-SUFFIX,adjust.com
+DOMAIN-SUFFIX,applovin.com
 DOMAIN-SUFFIX,adj.st
 DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,googlesyndication.com
