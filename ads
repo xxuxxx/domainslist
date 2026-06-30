@@ -1,6 +1,4 @@
-DOMAIN-SUFFIX,ecom-cdn.x5media.ru
 DOMAIN-SUFFIX,api.mindbox.ru
-DOMAIN-SUFFIX,blogmvideo.myemx.ru
 DOMAIN-SUFFIX,sync.otm-r.ru
 DOMAIN-SUFFIX,ads.x5media.ru
 DOMAIN-SUFFIX,datadoghq.eu
@@ -59,7 +57,6 @@ DOMAIN-SUFFIX,applvn.com
 DOMAIN-SUFFIX,clienttracing-pa.googleapis.com
 DOMAIN-SUFFIX,ogads-pa.googleapis.com
 DOMAIN-SUFFIX,analytics.adjust.world
-DOMAIN-SUFFIX,clck.yandex.ru
 DOMAIN-SUFFIX,rt.avito.ru
 DOMAIN-SUFFIX,pbssrv-centralevents.com
 DOMAIN-SUFFIX,fundingchoicesmessages.google.com
@@ -67,7 +64,6 @@ DOMAIN-SUFFIX,us-click.aliexpress.com
 DOMAIN-SUFFIX,aemetrics.aliexpress.ru
 DOMAIN-SUFFIX,analytics.us.tiktok.com
 DOMAIN-SUFFIX,app.adjust.net.in
-DOMAIN-SUFFIX,firebaseinstallations.googleapis.com
 DOMAIN-SUFFIX,sdk.fra-01.braze.eu
 DOMAIN-SUFFIX,tracing.megamarket.tech
 DOMAIN-SUFFIX,sdk-api.apptracer.ru
