@@ -95,3 +95,6 @@ DOMAIN-SUFFIX,eye.targetads.io
 DOMAIN-SUFFIX,sentry.ozon.ru
 DOMAIN-SUFFIX,supersentry.cdek.ru
 DOMAIN-SUFFIX,ad-cdek.ru
+DOMAIN-SUFFIX,amazon-adsystem.com
+DOMAIN-SUFFIX,scorecardresearch.com
+DOMAIN-SUFFIX,segment.com
