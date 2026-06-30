@@ -23,14 +23,11 @@ DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,app-analytics-services.com
 DOMAIN-SUFFIX,firebaselogging-pa.googleapis.com
 DOMAIN-SUFFIX,firebase-settings.crashlytics.com
-DOMAIN-SUFFIX,firebaseremoteconfig.googleapis.com
 DOMAIN-SUFFIX,crashlyticsreports-pa.googleapis.com
-DOMAIN-SUFFIX,appsgenaiserver-pa.googleapis.com
 DOMAIN-SUFFIX,appsgrowthpromo-pa.googleapis.com
 DOMAIN-SUFFIX,app-ads-services.com
 DOMAIN-SUFFIX,report.appmetrica.yandex.net
 DOMAIN-SUFFIX,appmetrica.yandex.ru
-DOMAIN-SUFFIX,ssl.google-analytics.com
 DOMAIN-SUFFIX,region1.app-measurement.com
 DOMAIN-SUFFIX,inmobi.com
 DOMAIN-SUFFIX,mixpanel.com
