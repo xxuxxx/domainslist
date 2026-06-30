@@ -12,6 +12,7 @@ DOMAIN-SUFFIX,ad.mail.ru
 DOMAIN-SUFFIX,rs.mail.ru
 DOMAIN-SUFFIX,m.mradx.net
 DOMAIN-SUFFIX,r.mradx.net
+DOMAIN-SUFFIX,appsflyersdk.com
 DOMAIN-SUFFIX,appsflyer.com
 DOMAIN-SUFFIX,adjust.com
 DOMAIN-SUFFIX,adj.st
@@ -27,6 +28,10 @@ DOMAIN-SUFFIX,crashlyticsreports-pa.googleapis.com
 DOMAIN-SUFFIX,appsgenaiserver-pa.googleapis.com
 DOMAIN-SUFFIX,appsgrowthpromo-pa.googleapis.com
 DOMAIN-SUFFIX,app-ads-services.com
+DOMAIN-SUFFIX,report.appmetrica.yandex.net
+DOMAIN-SUFFIX,appmetrica.yandex.ru
+DOMAIN-SUFFIX,ssl.google-analytics.com
+DOMAIN-SUFFIX,region1.app-measurement.com
 DOMAIN-SUFFIX,inmobi.com
 DOMAIN-SUFFIX,mixpanel.com
 DOMAIN-SUFFIX,posthog.com
