@@ -50,3 +50,4 @@ DOMAIN-SUFFIX,uxfeedback.ru
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,sentry-mobile.prod.ya.magnit.ru
 DOMAIN-SUFFIX,yandexadexchange.net
+DOMAIN-SUFFIX,analytics.adjust.net.in
