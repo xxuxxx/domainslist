@@ -56,3 +56,12 @@ DOMAIN-SUFFIX,clck.yandex.ru
 DOMAIN-SUFFIX,rt.avito.ru
 DOMAIN-SUFFIX,sdk-api.apptracer.ru
 DOMAIN-SUFFIX,buzzoola.com
+DOMAIN-SUFFIX,app-measurement-pa.googleapis.com
+DOMAIN-SUFFIX,googleadservices.com
+DOMAIN-SUFFIX,pagead2.googlesyndication.com
+DOMAIN-SUFFIX,googleads.g.doubleclick.net
+DOMAIN-SUFFIX,google-analytics.com
+DOMAIN-SUFFIX,www.google-analytics.com
+DOMAIN-SUFFIX,googletagservices.com
+DOMAIN-SUFFIX,amplitude.com
+DOMAIN-SUFFIX,branch.io
