@@ -53,3 +53,7 @@ DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,sentry-mobile.prod.ya.magnit.ru
 DOMAIN-SUFFIX,yandexadexchange.net
 DOMAIN-SUFFIX,analytics.adjust.net.in
+DOMAIN-SUFFIX,analytics.adjust.io
+DOMAIN-SUFFIX,analytics.adjust.world
+DOMAIN-SUFFIX,clck.yandex.ru
+DOMAIN-SUFFIX,rt.avito.ru
