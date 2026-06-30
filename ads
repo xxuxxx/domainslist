@@ -64,3 +64,12 @@ DOMAIN-SUFFIX,www.google-analytics.com
 DOMAIN-SUFFIX,googletagservices.com
 DOMAIN-SUFFIX,amplitude.com
 DOMAIN-SUFFIX,branch.io
+DOMAIN-SUFFIX,config.ads.vungle.com
+DOMAIN-SUFFIX,logs.ads.vungle.com
+DOMAIN-SUFFIX,configv2.unityads.unity3d.com
+DOMAIN-SUFFIX,publisher-config.unityads.unity3d.com
+DOMAIN-SUFFIX,webview.unityads.unity3d.com
+DOMAIN-SUFFIX,pixel.adlooxtracking.ru
+DOMAIN-SUFFIX,marketplace-sentry.wb.ru
+DOMAIN-SUFFIX,sentry.x5.ru
+DOMAIN-SUFFIX,wbx-status-tracker.wildberries.ru
