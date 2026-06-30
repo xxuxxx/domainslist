@@ -67,7 +67,6 @@ DOMAIN-SUFFIX,sdk.fra-01.braze.eu
 DOMAIN-SUFFIX,tracing.megamarket.tech
 DOMAIN-SUFFIX,sdk-api.apptracer.ru
 DOMAIN-SUFFIX,buzzoola.com
-
 DOMAIN-SUFFIX,app-measurement-pa.googleapis.com
 DOMAIN-SUFFIX,googleadservices.com
 DOMAIN-SUFFIX,pagead2.googlesyndication.com
