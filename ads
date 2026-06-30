@@ -44,8 +44,8 @@ DOMAIN-SUFFIX,log-stream.mvideo.ru
 DOMAIN-SUFFIX,ad.adriver.ru
 DOMAIN-SUFFIX,report.appmetrica.yandex.net
 DOMAIN-SUFFIX,appmetrica.yandex.ru
-DOMAIN-SUFFIX,api.appmetrica.yandex.ru
 DOMAIN-SUFFIX,crashlytics.com
 DOMAIN-SUFFIX,vk-analytics.ru
-DOMAIN-SUFFIX,app-analytics-services.com
 DOMAIN-SUFFIX,uxfeedback.ru
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,sentry-mobile.prod.ya.magnit.ru
