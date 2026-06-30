@@ -64,7 +64,6 @@ DOMAIN-SUFFIX,us-click.aliexpress.com
 DOMAIN-SUFFIX,aemetrics.aliexpress.ru
 DOMAIN-SUFFIX,analytics.us.tiktok.com
 DOMAIN-SUFFIX,app.adjust.net.in
-DOMAIN-SUFFIX,sdk.fra-01.braze.eu
 DOMAIN-SUFFIX,tracing.megamarket.tech
 DOMAIN-SUFFIX,sdk-api.apptracer.ru
 DOMAIN-SUFFIX,buzzoola.com
