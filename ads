@@ -12,6 +12,7 @@ DOMAIN-SUFFIX,ad.mail.ru
 DOMAIN-SUFFIX,rs.mail.ru
 DOMAIN-SUFFIX,m.mradx.net
 DOMAIN-SUFFIX,r.mradx.net
+DOMAIN-SUFFIX,appsflyersdk.com
 DOMAIN-SUFFIX,appsflyer.com
 DOMAIN-SUFFIX,adjust.com
 DOMAIN-SUFFIX,adj.st
@@ -41,7 +42,6 @@ DOMAIN-SUFFIX,stats.avito.ru
 DOMAIN-SUFFIX,pushlog-ios.wsoft.ru
 DOMAIN-SUFFIX,log-stream.mvideo.ru
 DOMAIN-SUFFIX,ad.adriver.ru
-DOMAIN-SUFFIX,report.appmetrica.yandex.net
 DOMAIN-SUFFIX,appmetrica.yandex.ru
 DOMAIN-SUFFIX,crashlytics.com
 DOMAIN-SUFFIX,vk-analytics.ru
