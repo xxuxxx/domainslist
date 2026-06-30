@@ -37,7 +37,6 @@ DOMAIN-SUFFIX,tns-counter.ru
 DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,app-analytics.whoosh.bike
 DOMAIN-SUFFIX,telemetry.ecosoft.group
-DOMAIN-SUFFIX,sync.ad-cdek.ru
 DOMAIN-SUFFIX,stats.avito.ru
 DOMAIN-SUFFIX,pushlog-ios.wsoft.ru
 DOMAIN-SUFFIX,log-stream.mvideo.ru
