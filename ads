@@ -1,3 +1,5 @@
+DOMAIN-SUFFIX,weborama-tech.ru
+DOMAIN-SUFFIX,serving-sys.ru
 DOMAIN-SUFFIX,api.mindbox.ru
 DOMAIN-SUFFIX,sync.otm-r.ru
 DOMAIN-SUFFIX,ads.x5media.ru
@@ -72,7 +74,6 @@ DOMAIN-SUFFIX,googleadservices.com
 DOMAIN-SUFFIX,pagead2.googlesyndication.com
 DOMAIN-SUFFIX,googleads.g.doubleclick.net
 DOMAIN-SUFFIX,google-analytics.com
-DOMAIN-SUFFIX,www.google-analytics.com
 DOMAIN-SUFFIX,googletagservices.com
 DOMAIN-SUFFIX,amplitude.com
 DOMAIN-SUFFIX,branch.io
@@ -90,9 +91,6 @@ DOMAIN-SUFFIX,eye.targetads.io
 DOMAIN-SUFFIX,sentry.ozon.ru
 DOMAIN-SUFFIX,supersentry.cdek.ru
 DOMAIN-SUFFIX,ad-cdek.ru
-DOMAIN-SUFFIX,amazon-adsystem.com
-DOMAIN-SUFFIX,scorecardresearch.com
-DOMAIN-SUFFIX,segment.com
 DOMAIN-SUFFIX,mosspf.net
 DOMAIN-SUFFIX,hookspf.com
 DOMAIN-SUFFIX,tradplusad.com
