@@ -108,3 +108,6 @@ DOMAIN-SUFFIX,scorecardresearch.com
 DOMAIN-SUFFIX,segment.com
 DOMAIN-SUFFIX,moloco.com
 DOMAIN-SUFFIX,adsmoloco.com
+DOMAIN-SUFFIX,strana-development.ru
+DOMAIN-SUFFIX,bs.serving-sys.ru
+DOMAIN-SUFFIX,appmetrica.yandex.com
