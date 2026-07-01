@@ -8,6 +8,7 @@ DOMAIN-SUFFIX,up.mdigital.ru
 DOMAIN-SUFFIX,mc.yandex.ru
 DOMAIN-SUFFIX,an.yandex.ru
 DOMAIN-SUFFIX,ads.adfox.ru
+DOMAIN-SUFFIX,uaas.yandex.ru
 DOMAIN-SUFFIX,adfstat.yandex.ru
 DOMAIN-SUFFIX,adstat.yandex.ru
 DOMAIN-SUFFIX,media-adv.market.yandex.ru
