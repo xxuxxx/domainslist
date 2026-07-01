@@ -85,6 +85,7 @@ DOMAIN-SUFFIX,pixel.adlooxtracking.ru
 DOMAIN-SUFFIX,marketplace-sentry.wb.ru
 DOMAIN-SUFFIX,sentry.x5.ru
 DOMAIN-SUFFIX,wbx-status-tracker.wildberries.ru
+DOMAIN-SUFFIX,sdk.fra-01.braze.eu
 DOMAIN-SUFFIX,cdn-lb.vungle.com
 DOMAIN-SUFFIX,eye.targetads.io
 DOMAIN-SUFFIX,sentry.ozon.ru
