@@ -44,7 +44,6 @@ DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,app-analytics.whoosh.bike
 DOMAIN-SUFFIX,telemetry.ecosoft.group
 DOMAIN-SUFFIX,stats.avito.ru
-DOMAIN-SUFFIX,pushlog-ios.wsoft.ru
 DOMAIN-SUFFIX,log-stream.mvideo.ru
 DOMAIN-SUFFIX,ad.adriver.ru
 DOMAIN-SUFFIX,crashlytics.com
