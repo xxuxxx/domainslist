@@ -2,6 +2,7 @@ DOMAIN-SUFFIX,weborama-tech.ru
 DOMAIN-SUFFIX,serving-sys.ru
 DOMAIN-SUFFIX,api.mindbox.ru
 DOMAIN-SUFFIX,sync.otm-r.ru
+DOMAIN-SUFFIX,amc.yandex.ru
 DOMAIN-SUFFIX,ads.x5media.ru
 DOMAIN-SUFFIX,datadoghq.eu
 DOMAIN-SUFFIX,up.mdigital.ru
