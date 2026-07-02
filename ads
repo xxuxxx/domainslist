@@ -4,6 +4,7 @@ DOMAIN-SUFFIX,api.mindbox.ru
 DOMAIN-SUFFIX,sync.otm-r.ru
 DOMAIN-SUFFIX,amc.yandex.ru
 DOMAIN-SUFFIX,ads.x5media.ru
+DOMAIN-SUFFIX,offerwall.unity3d.com
 DOMAIN-SUFFIX,datadoghq.eu
 DOMAIN-SUFFIX,up.mdigital.ru
 DOMAIN-SUFFIX,mc.yandex.ru
