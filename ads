@@ -1,4 +1,7 @@
 DOMAIN-SUFFIX,weborama-tech.ru
+DOMAIN-SUFFIX,analytics.oceanengine.com
+DOMAIN-SUFFIX,oslogs.umeng.com
+DOMAIN-SUFFIX,dig.bdurl.net
 DOMAIN-SUFFIX,serving-sys.ru
 DOMAIN-SUFFIX,api.mindbox.ru
 DOMAIN-SUFFIX,sync.otm-r.ru
