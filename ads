@@ -43,9 +43,7 @@ DOMAIN-SUFFIX,bidease.com
 DOMAIN-SUFFIX,branch.io
 DOMAIN-SUFFIX,bs.serving-sys.ru
 DOMAIN-SUFFIX,buzzoola.com
-DOMAIN-SUFFIX,cdn-lb.vungle.com
 DOMAIN-SUFFIX,clienttracing-pa.googleapis.com
-DOMAIN-SUFFIX,config.ads.vungle.com
 DOMAIN-SUFFIX,configv2.unityads.unity3d.com
 DOMAIN-SUFFIX,crashlytics.com
 DOMAIN-SUFFIX,crashlyticsreports-pa.googleapis.com
@@ -54,12 +52,10 @@ DOMAIN-SUFFIX,dig.bdurl.net
 DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,eye.targetads.io
 DOMAIN-SUFFIX,firebaselogging-pa.googleapis.com
-DOMAIN-SUFFIX,firebase-settings.crashlytics.com
 DOMAIN-SUFFIX,fundingchoicesmessages.google.com
 DOMAIN-SUFFIX,fyber.com
 DOMAIN-SUFFIX,google-analytics.com
 DOMAIN-SUFFIX,googleadservices.com
-DOMAIN-SUFFIX,googleads.g.doubleclick.net
 DOMAIN-SUFFIX,googlesyndication.com
 DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,googletagservices.com
@@ -67,7 +63,6 @@ DOMAIN-SUFFIX,hookspf.com
 DOMAIN-SUFFIX,inner-active.mobi
 DOMAIN-SUFFIX,inmobi.com
 DOMAIN-SUFFIX,log-stream.mvideo.ru
-DOMAIN-SUFFIX,logs.ads.vungle.com
 DOMAIN-SUFFIX,m.mradx.net
 DOMAIN-SUFFIX,market-baobab.yandex.ru
 DOMAIN-SUFFIX,marketplace-sentry.wb.ru
@@ -79,7 +74,6 @@ DOMAIN-SUFFIX,mosspf.net
 DOMAIN-SUFFIX,ogads-pa.googleapis.com
 DOMAIN-SUFFIX,offerwall.unity3d.com
 DOMAIN-SUFFIX,oslogs.umeng.com
-DOMAIN-SUFFIX,pagead2.googlesyndication.com
 DOMAIN-SUFFIX,pangle.io
 DOMAIN-SUFFIX,pbssrv-centralevents.com
 DOMAIN-SUFFIX,pixel.adlooxtracking.ru
@@ -87,7 +81,6 @@ DOMAIN-SUFFIX,posthog.com
 DOMAIN-SUFFIX,publisher-config.unityads.unity3d.com
 DOMAIN-SUFFIX,r.mradx.net
 DOMAIN-SUFFIX,rayjump.com
-DOMAIN-SUFFIX,region1.app-measurement.com
 DOMAIN-SUFFIX,rs.mail.ru
 DOMAIN-SUFFIX,rt.avito.ru
 DOMAIN-SUFFIX,rubiconproject.com
