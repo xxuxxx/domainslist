@@ -1,3 +1,5 @@
+DOMAIN-SUFFIX,tr.iadsdk.apple.com
+DOMAIN-SUFFIX,xp.apple.com
 DOMAIN-SUFFIX,ad-cdek.ru
 DOMAIN-SUFFIX,ad.mail.ru
 DOMAIN-SUFFIX,ad.adriver.ru
