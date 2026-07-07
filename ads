@@ -1,3 +1,7 @@
+DOMAIN-SUFFIX,medproad.com
+DOMAIN-SUFFIX,mentamob.com
+DOMAIN-SUFFIX,applovin.com
+DOMAIN-SUFFIX,vungle.com
 DOMAIN-SUFFIX,tr.iadsdk.apple.com
 DOMAIN-SUFFIX,xp.apple.com
 DOMAIN-SUFFIX,ad-cdek.ru
