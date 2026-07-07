@@ -15,15 +15,3 @@ IP-CIDR,140.248.0.0/16
 IP-CIDR,146.75.0.0/16
 IP-CIDR,151.101.0.0/16,no-resolve
 IP-CIDR,184.24.144.0/24
-DOMAIN-SUFFIX,mzstatic.com
-DOMAIN-SUFFIX,itunes.apple.com
-DOMAIN-SUFFIX,apps.apple.com
-DOMAIN-SUFFIX,cdn-apple.com
-DOMAIN-SUFFIX,aaplimg.com
-DOMAIN-SUFFIX,apple-dns.net
-DOMAIN-KEYWORD,xp.apple.com
-DOMAIN-KEYWORD,apple-support.akadns.net
-DOMAIN-KEYWORD,apple.com.akadns.net
-DOMAIN-KEYWORD,apple.com.edgekey.net
-DOMAIN-KEYWORD,buy.itunes.apple.com
-DOMAIN-KEYWORD,icloud.com.akadns.net
