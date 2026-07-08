@@ -97,6 +97,7 @@ DOMAIN-SUFFIX,ssl.google-analytics.com
 DOMAIN-SUFFIX,stats.avito.ru
 DOMAIN-SUFFIX,supersentry.cdek.ru
 DOMAIN-SUFFIX,sync.otm-r.ru
+DOMAIN-SUFFIX,telemetry.canva.com 
 DOMAIN-SUFFIX,telemetry.ecosoft.group
 DOMAIN-SUFFIX,tiktokpangle.us
 DOMAIN-SUFFIX,tns-counter.ru
