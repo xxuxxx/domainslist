@@ -1,4 +1,7 @@
 DOMAIN-SUFFIX,medproad.com
+DOMAIN-SUFFIX,mouseflow.com
+DOMAIN-SUFFIX,events.reddit.com
+DOMAIN-SUFFIX,events.redditmedia.com
 DOMAIN-SUFFIX,mentamob.com
 DOMAIN-SUFFIX,applovin.com
 DOMAIN-SUFFIX,vungle.com
