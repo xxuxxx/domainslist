@@ -82,6 +82,7 @@ DOMAIN-SUFFIX,books-analytics-events.apple.com
 DOMAIN-SUFFIX,branch.io
 DOMAIN-SUFFIX,bs.serving-sys.ru
 DOMAIN-SUFFIX,bs.yandex.ru
+DOMAIN-SUFFIX,business-api.tiktok.com
 DOMAIN-SUFFIX,buzzoola.com
 DOMAIN-SUFFIX,clck.yandex.ru
 DOMAIN-SUFFIX,click.googleanalytics.com
