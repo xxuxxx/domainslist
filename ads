@@ -103,7 +103,6 @@ DOMAIN-SUFFIX,telemetry.ecosoft.group
 DOMAIN-SUFFIX,tiktokpangle.us
 DOMAIN-SUFFIX,tns-counter.ru
 DOMAIN-SUFFIX,toponad.com
-DOMAIN-SUFFIX,tr.iadsdk.apple.com
 DOMAIN-SUFFIX,tracing.megamarket.tech
 DOMAIN-SUFFIX,tradplusad.com
 DOMAIN-SUFFIX,uaas.yandex.ru
