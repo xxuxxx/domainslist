@@ -4,6 +4,11 @@ DOMAIN-SUFFIX,ad.mail.ru
 DOMAIN-SUFFIX,adfstat.yandex.ru
 DOMAIN-SUFFIX,adjust.com
 DOMAIN-SUFFIX,adjust.io
+DOMAIN-SUFFIX,media.net
+DOMAIN-SUFFIX,adcolony.com
+DOMAIN-SUFFIX,hotjar.com
+DOMAIN-SUFFIX,sentry-cdn.com
+DOMAIN-SUFFIX,getsentry.com
 DOMAIN-SUFFIX,adj.st
 DOMAIN-SUFFIX,ads.adfox.ru
 DOMAIN-SUFFIX,ads.x5media.ru
