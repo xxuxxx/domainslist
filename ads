@@ -29,6 +29,7 @@ DOMAIN-SUFFIX,app.adjust.net.in
 DOMAIN-SUFFIX,appmetrica.yandex.com
 DOMAIN-SUFFIX,appmetrica.yandex.net
 DOMAIN-SUFFIX,appmetrica.yandex.ru
+DOMAIN-SUFFIX,appmetrica.yango.com
 DOMAIN-SUFFIX,appsflyer.com
 DOMAIN-SUFFIX,appsflyersdk.com
 DOMAIN-SUFFIX,appsgrowthpromo-pa.googleapis.com
