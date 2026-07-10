@@ -177,7 +177,7 @@ DOMAIN-SUFFIX,offerwall.unity3d.com
 DOMAIN-SUFFIX,offerwall.yandex.net
 DOMAIN-SUFFIX,ogads-pa.googleapis.com
 DOMAIN-SUFFIX,online-metrix.net
-DOMAIN-SUFFIX,openx.net,REJECT
+DOMAIN-SUFFIX,openx.net
 DOMAIN-SUFFIX,oslogs.umeng.com
 DOMAIN-SUFFIX,pangle.io
 DOMAIN-SUFFIX,pbssrv-centralevents.com
