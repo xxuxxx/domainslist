@@ -41,6 +41,7 @@ DOMAIN-SUFFIX,advert-media-api.wb.ru
 DOMAIN-SUFFIX,advice-ads.s3.amazonaws.com
 DOMAIN-SUFFIX,advlion.com
 DOMAIN-SUFFIX,advisor.api.2gis.ru
+DOMAIN-SUFFIX,af-ru2e2e.com
 DOMAIN-SUFFIX,aemetrics.aliexpress.ru
 DOMAIN-SUFFIX,agency-adv.ozon.ru
 DOMAIN-SUFFIX,alt-ad.mail.ru
