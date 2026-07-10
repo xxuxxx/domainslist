@@ -91,6 +91,7 @@ DOMAIN-SUFFIX,bidease.com
 DOMAIN-SUFFIX,books-analytics-events.apple.com
 DOMAIN-SUFFIX,branch.io
 DOMAIN-SUFFIX,bs.yandex.ru
+DOMAIN-SUFFIX,bugsnag.com
 DOMAIN-SUFFIX,bumlam.com
 DOMAIN-SUFFIX,business-api.tiktok.com
 DOMAIN-SUFFIX,buzzoola.com
