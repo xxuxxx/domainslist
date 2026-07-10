@@ -97,6 +97,7 @@ DOMAIN-SUFFIX,clck.yandex.ru
 DOMAIN-SUFFIX,clevertap-prod.com
 DOMAIN-SUFFIX,click.googleanalytics.com
 DOMAIN-SUFFIX,clickstream.sberbank.ru
+DOMAIN-SUFFIX,clickstream-proxy.api.2gis.com
 DOMAIN-SUFFIX,clienttracing-pa.googleapis.com
 DOMAIN-SUFFIX,cloudflareinsights.com
 DOMAIN-SUFFIX,cnt.rambler.ru
@@ -109,9 +110,12 @@ DOMAIN-SUFFIX,datadoghq.eu
 DOMAIN-SUFFIX,devtodev.com
 DOMAIN-SUFFIX,dig.bdurl.net
 DOMAIN-SUFFIX,doubleclick.net
+DOMAIN-SUFFIX,events.mapbox.com
 DOMAIN-SUFFIX,events.reddit.com
 DOMAIN-SUFFIX,events.redditmedia.com
 DOMAIN-SUFFIX,eventstream.dodopizza.com
+DOMAIN-SUFFIX,events-api.soundcloud.com
+DOMAIN-SUFFIX,event-stream-api.magnit.ru
 DOMAIN-SUFFIX,extmaps-api.yandex.net
 DOMAIN-SUFFIX,ext.clickstream.sberbank.ru
 DOMAIN-SUFFIX,firebaselogging-pa.googleapis.com
