@@ -1,4 +1,5 @@
 DOMAIN-SUFFIX,a.mts.ru
+DOMAIN-SUFFIX,a.wb.ru
 DOMAIN-SUFFIX,ad-cdek.ru
 DOMAIN-SUFFIX,ad.mail.ru
 DOMAIN-SUFFIX,ad.ozone.ru
