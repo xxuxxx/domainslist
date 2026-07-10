@@ -146,6 +146,7 @@ DOMAIN-SUFFIX,obs.mts.ru
 DOMAIN-SUFFIX,offerwall.unity3d.com
 DOMAIN-SUFFIX,offerwall.yandex.net
 DOMAIN-SUFFIX,ogads-pa.googleapis.com
+DOMAIN-SUFFIX,openx.net,REJECT
 DOMAIN-SUFFIX,oslogs.umeng.com
 DOMAIN-SUFFIX,pangle.io
 DOMAIN-SUFFIX,pbssrv-centralevents.com
