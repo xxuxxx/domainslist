@@ -1,8 +1,8 @@
 DOMAIN-SUFFIX,a.mts.ru
 DOMAIN-SUFFIX,ad-cdek.ru
-DOMAIN,ad.ozone.ru
 DOMAIN-SUFFIX,ad.adriver.ru
 DOMAIN-SUFFIX,ad.mail.ru
+DOMAIN,ad.ozone.ru
 DOMAIN-SUFFIX,adcolony.com
 DOMAIN-SUFFIX,adfox.ru
 DOMAIN-SUFFIX,adfox.yandex.ru
@@ -12,9 +12,9 @@ DOMAIN-SUFFIX,adjust.com
 DOMAIN-SUFFIX,adjust.io
 DOMAIN-SUFFIX,admetrica.ru
 DOMAIN-SUFFIX,adriver.ru
+DOMAIN-SUFFIX,ads-api.tiktok.com
 DOMAIN,ads-gate.wildberries.ru
 DOMAIN,ads-media.wildberries.ru
-DOMAIN-SUFFIX,ads-api.tiktok.com
 DOMAIN-SUFFIX,ads-sg.tiktok.com
 DOMAIN-SUFFIX,ads.adfox.ru
 DOMAIN-SUFFIX,ads.pinterest.com
@@ -22,14 +22,15 @@ DOMAIN-SUFFIX,ads.sber.ru
 DOMAIN-SUFFIX,ads.tiktok.com
 DOMAIN-SUFFIX,ads.viqeo.tv
 DOMAIN,ads.wildberries.ru
-DOMAIN-SUFFIX,ads.x5media.ru
 DOMAIN,ads.x5.ru
+DOMAIN-SUFFIX,ads.x5media.ru
 DOMAIN-SUFFIX,ads.yandex
 DOMAIN-SUFFIX,ads.yandex.ru
 DOMAIN-SUFFIX,ads.youtube.com
 DOMAIN-SUFFIX,adsadvisor.io
 DOMAIN-SUFFIX,adservice.google.com
 DOMAIN-SUFFIX,adstat.yandex.ru
+DOMAIN-SUFFIX,adtago.s3.amazonaws.com
 DOMAIN,adv.ozon.ru
 DOMAIN-SUFFIX,adv.vk.com
 DOMAIN-SUFFIX,adv.yandex.com
@@ -47,7 +48,7 @@ DOMAIN-SUFFIX,amc.yandex.ru
 DOMAIN-SUFFIX,amplitude.com
 DOMAIN-SUFFIX,an.facebook.com
 DOMAIN-SUFFIX,an.yandex.ru
-DOMAIN-SUFFIX,analytics-adv.ozon.ru
+DOMAIN,analytics-adv.ozon.ru
 DOMAIN-SUFFIX,analytics-sg.tiktok.com
 DOMAIN-SUFFIX,analytics.adjust.net.in
 DOMAIN-SUFFIX,analytics.adjust.world
@@ -121,8 +122,8 @@ DOMAIN-SUFFIX,log.byteoversea.com
 DOMAIN-SUFFIX,log.dzen.ru
 DOMAIN-SUFFIX,log.pinterest.com
 DOMAIN-SUFFIX,m.mradx.net
-DOMAIN,marketing-info.wildberries.ru
 DOMAIN-SUFFIX,market-baobab.yandex.ru
+DOMAIN,marketing-info.wildberries.ru
 DOMAIN-SUFFIX,marketplace-sentry.wb.ru
 DOMAIN-SUFFIX,mc.yandex.ru
 DOMAIN-SUFFIX,media-adv.market.yandex.ru
@@ -201,8 +202,8 @@ DOMAIN-SUFFIX,us-click.aliexpress.com
 DOMAIN-SUFFIX,uxfeedback.ru
 DOMAIN-SUFFIX,vk-analytics.ru
 DOMAIN-SUFFIX,vungle.com
-DOMAIN,web-analytics.wildberries.ru
 DOMAIN-SUFFIX,wbx-status-tracker.wildberries.ru
+DOMAIN,web-analytics.wildberries.ru
 DOMAIN-SUFFIX,weather-analytics-events.apple.com
 DOMAIN-SUFFIX,weborama-tech.ru
 DOMAIN-SUFFIX,webview.unityads.unity3d.com
