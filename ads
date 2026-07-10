@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,adfstat.yandex.ru
 DOMAIN-SUFFIX,adj.st
 DOMAIN-SUFFIX,adjust.com
 DOMAIN-SUFFIX,adjust.io
+DOMAIN-SUFFIX,adjust.world
 DOMAIN-SUFFIX,admetrica.ru
 DOMAIN-SUFFIX,adriver.ru
 DOMAIN-SUFFIX,ads-api.tiktok.com
@@ -28,6 +29,7 @@ DOMAIN-SUFFIX,ads.yandex.ru
 DOMAIN-SUFFIX,ads.youtube.com
 DOMAIN-SUFFIX,adsadvisor.io
 DOMAIN-SUFFIX,adservice.google.com
+DOMAIN-SUFFIX,adsmoloco.com
 DOMAIN-SUFFIX,adstat.yandex.ru
 DOMAIN-SUFFIX,adtago.s3.amazonaws.com
 DOMAIN-SUFFIX,adtrafficquality.google
@@ -90,11 +92,13 @@ DOMAIN-SUFFIX,bs.yandex.ru
 DOMAIN-SUFFIX,bumlam.com
 DOMAIN-SUFFIX,business-api.tiktok.com
 DOMAIN-SUFFIX,buzzoola.com
+DOMAIN-SUFFIX,cellrebel.com
 DOMAIN-SUFFIX,clck.yandex.ru
 DOMAIN-SUFFIX,clevertap-prod.com
 DOMAIN-SUFFIX,click.googleanalytics.com
 DOMAIN-SUFFIX,clickstream.sberbank.ru
 DOMAIN-SUFFIX,clienttracing-pa.googleapis.com
+DOMAIN-SUFFIX,cloudflareinsights.com
 DOMAIN-SUFFIX,cnt.rambler.ru
 DOMAIN-SUFFIX,configv2.unityads.unity3d.com
 DOMAIN-SUFFIX,counter.yandex.ru
@@ -102,6 +106,7 @@ DOMAIN-SUFFIX,crashlytics.com
 DOMAIN-SUFFIX,crashlyticsreports-pa.googleapis.com
 DOMAIN-SUFFIX,cxhub.ru
 DOMAIN-SUFFIX,datadoghq.eu
+DOMAIN-SUFFIX,devtodev.com
 DOMAIN-SUFFIX,dig.bdurl.net
 DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,events.reddit.com
@@ -127,10 +132,13 @@ DOMAIN-SUFFIX,iadsdk.apple.com
 DOMAIN-SUFFIX,inmobi.com
 DOMAIN-SUFFIX,inner-active.mobi
 DOMAIN-SUFFIX,kraken.rambler.ru
+DOMAIN-SUFFIX,kvaedit.site
+DOMAIN-SUFFIX,kochava.com
 DOMAIN-SUFFIX,log-stream.mvideo.ru
 DOMAIN-SUFFIX,log.byteoversea.com
 DOMAIN-SUFFIX,log.dzen.ru
 DOMAIN-SUFFIX,log.pinterest.com
+DOMAIN-SUFFIX,logeu.xiaoyi.com
 DOMAIN-SUFFIX,m.mradx.net
 DOMAIN-SUFFIX,mads-serve.magnit.ru
 DOMAIN-SUFFIX,mads-track.magnit.ru
@@ -138,6 +146,7 @@ DOMAIN-SUFFIX,market-baobab.yandex.ru
 DOMAIN-SUFFIX,marketplace-sentry.wb.ru
 DOMAIN-SUFFIX,marketing-info.wildberries.ru
 DOMAIN-SUFFIX,matomo.x5.ru
+DOMAIN-SUFFIX,matomo-new.x5.ru
 DOMAIN-SUFFIX,mc.yandex.ru
 DOMAIN-SUFFIX,media-adv.market.yandex.ru
 DOMAIN-SUFFIX,media.net
@@ -149,6 +158,7 @@ DOMAIN-SUFFIX,metrics.viqeo.tv
 DOMAIN-SUFFIX,metrika.yandex.com
 DOMAIN-SUFFIX,metrika.yandex.net
 DOMAIN-SUFFIX,metrika.yandex.ru
+DOMAIN-SUFFIX,mintegral.net
 DOMAIN-SUFFIX,mixpanel.com
 DOMAIN-SUFFIX,mobiletelemetry.ebay.com
 DOMAIN-SUFFIX,moloco.com
@@ -200,6 +210,7 @@ DOMAIN-SUFFIX,sentry.x5.ru
 DOMAIN-SUFFIX,serving-sys.ru
 DOMAIN-SUFFIX,sntr.avito.ru
 DOMAIN-SUFFIX,stats.avito.ru
+DOMAIN-SUFFIX,stat.tildaapi.com
 DOMAIN-SUFFIX,supersentry.cdek.ru
 DOMAIN-SUFFIX,sync.otm-r.ru
 DOMAIN-SUFFIX,target.my.com
@@ -209,6 +220,8 @@ DOMAIN-SUFFIX,telemetry.canva.com
 DOMAIN-SUFFIX,telemetry.ecosoft.group
 DOMAIN-SUFFIX,39endpoint-iiiiiiiilllllllljjjjjjjvvvvlrrrff.store
 DOMAIN-SUFFIX,tiktokpangle.us
+DOMAIN-SUFFIX,tiktokpangle-b.us
+DOMAIN-SUFFIX,tiktokpangle-cdn-us.com
 DOMAIN-SUFFIX,tns-counter.ru
 DOMAIN-SUFFIX,top-fwz1.mail.ru
 DOMAIN-SUFFIX,toponad.com
