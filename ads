@@ -29,6 +29,7 @@ DOMAIN-SUFFIX,ads.yandex.ru
 DOMAIN-SUFFIX,ads.youtube.com
 DOMAIN-SUFFIX,adsadvisor.io
 DOMAIN-SUFFIX,adservice.google.com
+DOMAIN-SUFFIX,adserver.unityads.unity3d.com
 DOMAIN-SUFFIX,adsmoloco.com
 DOMAIN-SUFFIX,adstat.yandex.ru
 DOMAIN-SUFFIX,adtago.s3.amazonaws.com
@@ -84,6 +85,7 @@ DOMAIN-SUFFIX,appmetrica.yango.com
 DOMAIN-SUFFIX,appsflyer.com
 DOMAIN-SUFFIX,appsflyersdk.com
 DOMAIN-SUFFIX,appsgrowthpromo-pa.googleapis.com
+DOMAIN-SUFFIX,auction.unityads.unity3d.com
 DOMAIN-SUFFIX,baobab.market.yandex.ru
 DOMAIN-SUFFIX,bidease.com
 DOMAIN-SUFFIX,books-analytics-events.apple.com
@@ -101,6 +103,7 @@ DOMAIN-SUFFIX,clickstream-proxy.api.2gis.com
 DOMAIN-SUFFIX,clienttracing-pa.googleapis.com
 DOMAIN-SUFFIX,cloudflareinsights.com
 DOMAIN-SUFFIX,cnt.rambler.ru
+DOMAIN-SUFFIX,config.unityads.unity3d.com
 DOMAIN-SUFFIX,configv2.unityads.unity3d.com
 DOMAIN-SUFFIX,counter.yandex.ru
 DOMAIN-SUFFIX,crashlytics.com
