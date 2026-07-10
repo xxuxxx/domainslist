@@ -1,6 +1,5 @@
 DOMAIN-SUFFIX,a.mts.ru
 DOMAIN-SUFFIX,ad-cdek.ru
-DOMAIN-SUFFIX,ad.adriver.ru
 DOMAIN-SUFFIX,ad.mail.ru
 DOMAIN,ad.ozone.ru
 DOMAIN-SUFFIX,adcolony.com
@@ -16,7 +15,6 @@ DOMAIN-SUFFIX,ads-api.tiktok.com
 DOMAIN,ads-gate.wildberries.ru
 DOMAIN,ads-media.wildberries.ru
 DOMAIN-SUFFIX,ads-sg.tiktok.com
-DOMAIN-SUFFIX,ads.adfox.ru
 DOMAIN-SUFFIX,ads.pinterest.com
 DOMAIN-SUFFIX,ads.sber.ru
 DOMAIN-SUFFIX,ads.tiktok.com
@@ -81,7 +79,6 @@ DOMAIN-SUFFIX,baobab.market.yandex.ru
 DOMAIN-SUFFIX,bidease.com
 DOMAIN-SUFFIX,books-analytics-events.apple.com
 DOMAIN-SUFFIX,branch.io
-DOMAIN-SUFFIX,bs.serving-sys.ru
 DOMAIN-SUFFIX,bs.yandex.ru
 DOMAIN-SUFFIX,business-api.tiktok.com
 DOMAIN-SUFFIX,buzzoola.com
