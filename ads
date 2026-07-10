@@ -101,6 +101,7 @@ DOMAIN-SUFFIX,dig.bdurl.net
 DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,events.reddit.com
 DOMAIN-SUFFIX,events.redditmedia.com
+DOMAIN-SUFFIX,eventstream.dodopizza.com
 DOMAIN-SUFFIX,extmaps-api.yandex.net
 DOMAIN-SUFFIX,ext.clickstream.sberbank.ru
 DOMAIN-SUFFIX,firebaselogging-pa.googleapis.com
