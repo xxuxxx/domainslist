@@ -230,7 +230,6 @@ DOMAIN-SUFFIX,tracker.my.com
 DOMAIN-SUFFIX,tradplusad.com
 DOMAIN-SUFFIX,trk.pinterest.com
 DOMAIN-SUFFIX,uaas.yandex.ru
-DOMAIN-SUFFIX,up.mdigital.ru
 DOMAIN-SUFFIX,us-click.aliexpress.com
 DOMAIN-SUFFIX,uxfeedback.ru
 DOMAIN-SUFFIX,visor.sberbank.ru
