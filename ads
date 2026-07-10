@@ -116,7 +116,6 @@ DOMAIN-SUFFIX,extmaps-api.yandex.net
 DOMAIN-SUFFIX,ext.clickstream.sberbank.ru
 DOMAIN-SUFFIX,firebaselogging-pa.googleapis.com
 DOMAIN-SUFFIX,flocktory.com
-DOMAIN-SUFFIX,foodsoul.ru
 DOMAIN-SUFFIX,fundingchoicesmessages.google.com
 DOMAIN-SUFFIX,fyber.com
 DOMAIN-SUFFIX,getsentry.com
