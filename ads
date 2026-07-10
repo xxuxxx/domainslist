@@ -97,7 +97,6 @@ DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,events.reddit.com
 DOMAIN-SUFFIX,events.redditmedia.com
 DOMAIN-SUFFIX,extmaps-api.yandex.net
-DOMAIN-SUFFIX,eye.targetads.io
 DOMAIN-SUFFIX,firebaselogging-pa.googleapis.com
 DOMAIN-SUFFIX,flocktory.com
 DOMAIN-SUFFIX,fundingchoicesmessages.google.com
@@ -174,7 +173,6 @@ DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,sentry.ozon.ru
 DOMAIN-SUFFIX,sentry.x5.ru
 DOMAIN-SUFFIX,serving-sys.ru
-DOMAIN-SUFFIX,ssl.google-analytics.com
 DOMAIN-SUFFIX,stats.avito.ru
 DOMAIN-SUFFIX,supersentry.cdek.ru
 DOMAIN-SUFFIX,sync.otm-r.ru
