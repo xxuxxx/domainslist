@@ -201,6 +201,7 @@ DOMAIN-SUFFIX,rayjump.com
 DOMAIN-SUFFIX,relap.mail.ru
 DOMAIN-SUFFIX,roistat.com
 DOMAIN-SUFFIX,rs.mail.ru
+DOMAIN-SUFFIX,rt.avito.ru
 DOMAIN-SUFFIX,rubiconproject.com
 DOMAIN-SUFFIX,sbermarketing.ru
 DOMAIN-SUFFIX,scorecardresearch.com
