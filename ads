@@ -40,6 +40,7 @@ DOMAIN-SUFFIX,advert-api.wildberries.ru
 DOMAIN-SUFFIX,advert-media-api.wb.ru
 DOMAIN-SUFFIX,advice-ads.s3.amazonaws.com
 DOMAIN-SUFFIX,advlion.com
+DOMAIN-SUFFIX,advisor.api.2gis.ru
 DOMAIN-SUFFIX,aemetrics.aliexpress.ru
 DOMAIN-SUFFIX,agency-adv.ozon.ru
 DOMAIN-SUFFIX,alt-ad.mail.ru
@@ -101,6 +102,7 @@ DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,events.reddit.com
 DOMAIN-SUFFIX,events.redditmedia.com
 DOMAIN-SUFFIX,extmaps-api.yandex.net
+DOMAIN-SUFFIX,ext.clickstream.sberbank.ru
 DOMAIN-SUFFIX,firebaselogging-pa.googleapis.com
 DOMAIN-SUFFIX,flocktory.com
 DOMAIN-SUFFIX,fundingchoicesmessages.google.com
@@ -203,6 +205,7 @@ DOMAIN-SUFFIX,uaas.yandex.ru
 DOMAIN-SUFFIX,up.mdigital.ru
 DOMAIN-SUFFIX,us-click.aliexpress.com
 DOMAIN-SUFFIX,uxfeedback.ru
+DOMAIN-SUFFIX,visor.sberbank.ru
 DOMAIN-SUFFIX,vk-analytics.ru
 DOMAIN-SUFFIX,vungle.com
 DOMAIN-SUFFIX,wbx-status-tracker.wildberries.ru
