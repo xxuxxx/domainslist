@@ -53,6 +53,7 @@ DOMAIN-SUFFIX,amc.yandex.ru
 DOMAIN-SUFFIX,amplitude.com
 DOMAIN-SUFFIX,an.facebook.com
 DOMAIN-SUFFIX,an.yandex.ru
+DOMAIN-SUFFIX,an.yandex
 DOMAIN-SUFFIX,analytics-adv.ozon.ru
 DOMAIN-SUFFIX,analytics-sg.tiktok.com
 DOMAIN-SUFFIX,analytics.adjust.net.in
