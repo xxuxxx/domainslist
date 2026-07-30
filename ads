@@ -223,7 +223,6 @@ DOMAIN-SUFFIX,target.vk.ru
 DOMAIN-SUFFIX,targetads.io
 DOMAIN-SUFFIX,telemetry.canva.com
 DOMAIN-SUFFIX,telemetry.ecosoft.group
-DOMAIN-SUFFIX,39endpoint-iiiiiiiilllllllljjjjjjjvvvvlrrrff.store
 DOMAIN-SUFFIX,tiktokpangle.us
 DOMAIN-SUFFIX,tiktokpangle-b.us
 DOMAIN-SUFFIX,tiktokpangle-cdn-us.com
