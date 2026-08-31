@@ -154,7 +154,6 @@ DOMAIN-SUFFIX,marketplace-sentry.wb.ru
 DOMAIN-SUFFIX,marketing-info.wildberries.ru
 DOMAIN-SUFFIX,matomo.x5.ru
 DOMAIN-SUFFIX,matomo-new.x5.ru
-DOMAIN-SUFFIX,mc.yandex.ru
 DOMAIN-SUFFIX,media-adv.market.yandex.ru
 DOMAIN-SUFFIX,media.net
 DOMAIN-SUFFIX,medproad.com
