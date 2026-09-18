@@ -1,3 +1,11 @@
+DOMAIN-SUFFIX,adfox.ru
+DOMAIN,an.yandex.ru
+DOMAIN,mc.yandex.ru
+DOMAIN,clck.yandex.ru
+DOMAIN-SUFFIX,appmetrica.yandex.net
+DOMAIN-SUFFIX,adjust.io
+DOMAIN,ca.iadsdk.apple.com
+DOMAIN,gateway-a.offerwall.unity3d.com
 DOMAIN-SUFFIX,a.mts.ru
 DOMAIN-SUFFIX,a.wb.ru
 DOMAIN-SUFFIX,ad-cdek.ru
