@@ -165,6 +165,7 @@ DOMAIN-SUFFIX,metrics.viqeo.tv
 DOMAIN-SUFFIX,metrika.yandex.com
 DOMAIN-SUFFIX,metrika.yandex.net
 DOMAIN-SUFFIX,metrika.yandex.ru
+DOMAIN-SUFFIX,mindtos.com
 DOMAIN-SUFFIX,mintegral.net
 DOMAIN-SUFFIX,mixpanel.com
 DOMAIN-SUFFIX,mobiletelemetry.ebay.com
