@@ -170,6 +170,7 @@ DOMAIN-SUFFIX,mintegral.net
 DOMAIN-SUFFIX,mixpanel.com
 DOMAIN-SUFFIX,mobiletelemetry.ebay.com
 DOMAIN-SUFFIX,moloco.com
+DOMAIN-SUFFIX,mosspf.com
 DOMAIN-SUFFIX,mosspf.net
 DOMAIN-SUFFIX,mossru.com
 DOMAIN-SUFFIX,mouseflow.com
